@@ -1,2 +1,2 @@
-# Blocktouchcolorchange
-When the blocks touch, the color changes. If you take it away, it goes back to normal.
+# p5.play-boilerplate
+Boiler plate for p5.play
